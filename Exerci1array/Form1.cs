@@ -22,7 +22,7 @@ namespace Exerci1array
 
             }
 
-            else if (Nome[1] == nul)
+            else if (Nome[1] == null)
             {
                 Nome[1] = txtnome.Text;
             }
